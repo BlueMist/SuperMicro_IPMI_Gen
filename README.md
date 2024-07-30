@@ -1,0 +1,2 @@
+CMD
+Python IPMI_Gen.py **MAC ADDRESS OF BMC**
